@@ -25,10 +25,7 @@ For further details, you can explore the following resource:
 
 ## Overall Objectives
 
-The primary goal of this project is to predict mortality using ICU data. 
-
-
-1. **Model Development**: Build a model to predict patient mortality based on ICU data, such as demographics, clinical parameters, and pneumonia episode details.
+1. **Model Development**: Build a model to predict patient mortality based on ICU data.
 2. **Key Parameters**: Identify significant features for the model, with a focus on clinical data, demographics, and pneumonia characteristics.
 3. **Integration of BAL Data**: Investigate how to incorporate the `has_bal` feature (indicating whether a patient underwent bronchoalveolar lavage) into the prediction model.
 
