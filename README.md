@@ -1,6 +1,6 @@
 # Suspected Pneumonia Mortality Prediction Model
 
-Project for the Statistical Learning for Healthcare Data course held at Politecnico di Milano by Professor Manuela Ferrario.
+Project for the Statistical Learning for Healthcare Data course held at @Politecnico di Milano .
 
 ## Project Overview
 
