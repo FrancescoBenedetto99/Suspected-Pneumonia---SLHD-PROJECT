@@ -79,11 +79,3 @@ This project demonstrates how machine learning can be applied to real-world medi
 Moreover, the integration of online learning highlights how predictive models can stay current by updating regularly with new data, ensuring that healthcare providers have access to the most accurate predictions as they evolve over time.
 
 ---
-
-## Authors
-
-- Francesco Benedetto
-- Carlotta Pagani
-- Riccardo Sena
-
----
