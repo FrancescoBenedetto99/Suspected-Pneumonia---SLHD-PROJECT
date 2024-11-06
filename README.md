@@ -1,5 +1,7 @@
 # Suspected Pneumonia Mortality Prediction Model
 
+Project for the Statistical Learning for Healthcare Data course held at Politecnico di Milano by Professor Manuela Ferrario.
+
 ## Project Overview
 
 The goal of this project is to develop a predictive model that estimates the mortality of critically ill patients suspected of having pneumonia. The dataset used includes data from 585 patients with varying types of pneumonia, such as COVID-19, bacterial pneumonia, and other viral types. The key objective is to predict patient mortality by analyzing clinical features and understanding the factors contributing to patient outcomes. Special attention is given to clinical parameters such as bronchoalveolar lavage (BAL) and ICU length of stay.
@@ -16,10 +18,9 @@ The **Suspected Pneumonia** dataset, provided by PhysioNet, contains data for 58
 - **Episodes**: 136 community-acquired pneumonia (CAP), 214 hospital-acquired pneumonia (HAP), and 328 ventilator-associated pneumonia (VAP)
 - **Data**: Includes granular per-day information, along with expert clinician adjudications.
 
-For further details, you can explore the following resources:
+For further details, you can explore the following resource:
 - [PhysioNet Suspected Pneumonia Dataset Paper](https://physionet.org/content/script-carpediem-dataset/1.1.0/)
-- [Clinical Reference: JCI Article](https://www.jci.org/articles/view/170682)
-
+  
 ---
 
 ## Overall Objectives
