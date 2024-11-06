@@ -1,4 +1,4 @@
-# Suspected Pneumonia Prediction Model
+# Suspected Pneumonia Mortality Prediction Model
 
 ## Project Overview
 
@@ -17,7 +17,7 @@ The **Suspected Pneumonia** dataset, provided by PhysioNet, contains data for 58
 - **Data**: Includes granular per-day information, along with expert clinician adjudications.
 
 For further details, you can explore the following resources:
-- [PhysioNet Suspected Pneumonia Dataset](https://physionet.org/content/script-carpediem-dataset/1.1.0/)
+- [PhysioNet Suspected Pneumonia Dataset Paper](https://physionet.org/content/script-carpediem-dataset/1.1.0/)
 - [Clinical Reference: JCI Article](https://www.jci.org/articles/view/170682)
 
 ---
